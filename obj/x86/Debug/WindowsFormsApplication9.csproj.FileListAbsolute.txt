@@ -1,0 +1,16 @@
+c:\users\umaro\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+c:\users\umaro\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+c:\users\umaro\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Baju.resources
+c:\users\umaro\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Pembelian.resources
+c:\users\umaro\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Penjualan.resources
+c:\users\umaro\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Login.resources
+c:\users\umaro\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Properties.Resources.resources
+c:\users\umaro\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+c:\users\umaro\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.exe
+c:\users\umaro\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.pdb
+c:\users\umaro\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.User.resources
+c:\users\umaro\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Pembeli.resources
+c:\users\umaro\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\MySql.Data.dll
+c:\users\umaro\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\MySql.Data.xml
+c:\users\umaro\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\umaro\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.HomePage.resources
